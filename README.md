@@ -9,6 +9,10 @@ A local **Retrieval-Augmented Generation (RAG)** application that allows users t
 
 Built with **LangChain**, **Ollama (Llama 3)**, and **Streamlit**, this project runs entirely offline, ensuring data privacy while delivering accurate, context-aware answers using advanced RAG techniques like **Query Expansion** and **Cross-Encoder Re-ranking**.
 
+<img width="1919" height="839" alt="image" src="https://github.com/user-attachments/assets/a7b25a82-0ba1-4a7c-a8ad-bbdae7c3eefd" />
+
+<img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/f77941d0-71b2-4d70-9789-4febd071b397" />
+
 ---
 
 ## 🚀 Features
